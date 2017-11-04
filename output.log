@@ -1,0 +1,203 @@
+nohup: ignoring input
+
+> empty-example@1.0.0 start /opt/bitnami/apache2/htdocs/nodeCreative/nodeCreativeProj
+> node server.js "node" "./bin/www"
+
+Server on 3003
+New Socket:vHDY5v1-dKIqrNL6AAAA
+New Socket:nmQ48ooV8wjwcf10AAAB
+ Has Left
+0 players online
+New Socket:iJ2ZV8kPIX0p1JqOAAAC
+ Has Left
+0 players online
+New Socket:QLkT1jjFEeBi2qDPAAAD
+ Has Left
+0 players online
+New Socket:xrKF6f2jLQEi_eXbAAAE
+ Has Left
+0 players online
+New Socket:U4NAEQF1J9rlIEU2AAAF
+New Socket:zoykfVdcv_1FasVFAAAG
+New Socket:TgtAB1T9OvYT_Bf2AAAH
+New Socket:bBJPRaNOQR7CCjncAAAI
+Bob Has Left
+0 players online
+New Socket:UpQxXIbmC6_bN8vqAAAJ
+New Socket:j56YLKzVA8rw-gQkAAAK
+Bill Has Left
+1 players online
+ Has Left
+0 players online
+New Socket:wAez6y-v6RSNwneHAAAL
+New Socket:him_yyO9zVEx2YEkAAAM
+ Has Left
+1 players online
+ Has Left
+0 players online
+New Socket:oT6b9BSEKfMdLVUiAAAN
+Bob Has Left
+0 players online
+New Socket:LrNH3xiYRGJm5P3fAAAO
+Bob Has Left
+0 players online
+New Socket:CfaggzWG33xtmTp0AAAP
+Bob Has Left
+0 players online
+New Socket:dvuKL64kNhOkPN_kAAAQ
+New Socket:JjZEsyEOo_6vq0WlAAAR
+New Socket:2sQkUPk9wegCT8OuAAAS
+New Socket:leo3pr1_OFq_ZfzIAAAT
+Bob Has Left
+1 players online
+New Socket:R340yCsV3hV0XFEDAAAU
+New Socket:L3_yM-wzezzggASxAAAV
+Prof. Clemet Has Left
+2 players online
+New Socket:O7WlpKee-7SeXhUyAAAW
+hello Has Left
+2 players online
+ Has Left
+1 players online
+New Socket:nZY9idBsTC_x06eMAAAX
+Bill Has Left
+1 players online
+New Socket:3Hhq8I3s37CJlgb9AAAY
+Not Jesse Has Left
+1 players online
+New Socket:WT5-uiZshXsB5t6cAAAZ
+ Has Left
+1 players online
+New Socket:Of1JIadot4S9G3p4AAAa
+Bob Has Left
+1 players online
+New Socket:_tSGVfQnjpqlRRCJAAAb
+Matt Has Left
+1 players online
+Phil Has Left
+0 players online
+New Socket:8cM5B_9vAbWujxWHAAAc
+New Socket:Ezswc9Dq6jMl8PMzAAAd
+Boss Has Left
+1 players online
+Jacob Has Left
+0 players online
+New Socket:7TALTQMW9TPq5YnwAAAe
+New Socket:E_YNCRFaWi80e_swAAAf
+New Socket:s5jbtnfLAtg8qVy8AAAg
+Steve Has Left
+2 players online
+New Socket:NYhqJmVo__i9WLboAAAh
+New Socket:_b9Y-8jo-AL78bXYAAAi
+New Socket:L0LeztJrk-pq8nkJAAAj
+New Socket:XcBamVogAyLqYp6JAAAk
+poo Has Left
+5 players online
+vxcarson Has Left
+4 players online
+Eluchel Has Left
+3 players online
+hello Has Left
+2 players online
+New Socket:9ICaZt-NJo_IZTJXAAAl
+Tanner Has Left
+2 players online
+Jacob Has Left
+1 players online
+New Socket:WT6G2LXo6QH9hGEcAAAm
+New Socket:Yyvd-J6V2z4Qcos1AAAn
+Tanner Has Left
+2 players online
+Dave Has Left
+1 players online
+New Socket:x7ypYLJs6dytA49jAAAo
+New Socket:I3mHRireP7V5yPAqAAAp
+ Has Left
+2 players online
+New Socket:L7P0D-7ZLtQv-j1YAAAq
+Harambe Has Left
+2 players online
+Not Firth Has Left
+1 players online
+New Socket:cP7Oa2FJcnjfaDpLAAAr
+New Socket:FC__wjeA1kH_Ow8FAAAs
+Not Dallin Has Left
+2 players online
+D Has Left
+1 players online
+D Has Left
+0 players online
+New Socket:MUVJWv0D9wMiQirkAAAt
+New Socket:V_nynZkTpxoC1bihAAAu
+Bob Has Left
+1 players online
+Jorge Has Left
+0 players online
+New Socket:c-pN7bOEAmawczbSAAAv
+ Has Left
+0 players online
+New Socket:8uIOtiQuL7nw7xoBAAAw
+hi Has Left
+0 players online
+New Socket:TGFxUQhdififgVRDAAAx
+ Has Left
+0 players online
+New Socket:6WoWpEcaJUw7R32KAAAy
+ Has Left
+0 players online
+New Socket:FQ6Cbiptt24aLMw6AAAz
+New Socket:-FeT9uMM82yxQnuKAAA0
+RangeNotSatisfiableError: Range Not Satisfiable
+    at SendStream.error (/opt/bitnami/apache2/htdocs/nodeCreative/nodeCreativeProj/node_modules/send/index.js:270:31)
+    at SendStream.send (/opt/bitnami/apache2/htdocs/nodeCreative/nodeCreativeProj/node_modules/send/index.js:671:19)
+    at /opt/bitnami/apache2/htdocs/nodeCreative/nodeCreativeProj/node_modules/send/index.js:775:12
+    at FSReqWrap.oncomplete (fs.js:123:15)
+No Name Has Left
+1 players online
+New Socket:uKQ_SmzNOjvcZNGyAAA1
+Bill Has Left
+1 players online
+New Socket:Rvcumt5CTmPSmBc5AAA2
+New Socket:dc6RwvRDY1mbeFa3AAA3
+Dallin "Dank" Clayton Has Left
+2 players online
+New Socket:_wtX4SDXtymyK58OAAA4
+Bob Has Left
+2 players online
+New Socket:EtcsIaiZvJ2t-npBAAA5
+Dal Has Left
+2 players online
+New Socket:QDJLsBFih0ZUCdWiAAA6
+ddddddddddd Has Left
+2 players online
+New Socket:XYO98cyoC-Ma14c2AAA7
+Third times the charm Has Left
+2 players online
+New Socket:hsI7NvxCs9EQxJsTAAA8
+Jacob Has Left
+2 players online
+Dallin Clayton Has Left
+1 players online
+BROOOO Has Left
+0 players online
+New Socket:QrGvOgmo-wyEfKRkAAA9
+No Name Has Left
+0 players online
+New Socket:-tujQorhLrAfRomRAAA-
+New Socket:9gC7bnUZdP6LxxjPAAA_
+ Has Left
+1 players online
+New Socket:mt8HfKc95BitUwzUAABA
+Bill Has Left
+1 players online
+Bob Has Left
+0 players online
+New Socket:dVvq1ATbazOSsgRrAABB
+Jacob Has Left
+0 players online
+New Socket:Pj8rMtXPoLTCADblAABC
+df Has Left
+0 players online
+New Socket:2Sx4DWkVDOaSd3jjAABD
+Weather APi with Stack Exchange Has Left
+0 players online

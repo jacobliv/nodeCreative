@@ -1,0 +1,35 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Sockets Galore </title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+  <script language="javascript" type="text/javascript" src="libraries/p5.js"></script>
+  <script language="javascript" src="libraries/p5.dom.js"></script>
+  <script language="javascript" src="libraries/p5.sound.js"></script>
+  <script language="javascript" type="text/javascript" src="sketch.js"></script>
+  <script language="javascript" type="text/javascript" src="avi.js"></script>
+  <script src="/socket.io/socket.io.js"></script>
+  <link rel="stylesheet" type="text/css" href="index.css">
+
+
+<body>
+
+  <div id="getName">
+    <div id="signIn">
+    <h1>Enter Your Name</h1>
+
+    <form onsubmit="submitName()">
+      <input type="text" id="name"></br></br>
+      <input id="nameButton" type="submit" value="Submit">
+    </form>
+    <h4 style="color:red;">Works Best With more than 1 person</h4>
+  <div id="controls">
+	</br>
+    <h2>Use 'WASD' to move</h2>
+  </div>
+
+  </div>
+  </div>
+</body>
+</html>
